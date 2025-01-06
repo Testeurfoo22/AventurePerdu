@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cle
+  m_Shader: {fileID: -6465566751694194690, guid: 3aee89b2365c0084e9d28be008aa975d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_93a573cb182f4d538615f0720125742e:
+        m_Texture: {fileID: 2800000, guid: 14307ebcbbe15e74bbfb24773b377cec, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_dde1133dce6048cfb8c8b1a89d4b0c6c:
+        m_Texture: {fileID: 2800000, guid: 25eb0fd64659991419df003136f655d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_187ec4e0e64649bf8dd40ef9919a2d9f_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 05864347b800d334f9c3489b67d89567, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_c957b4e32e3040ca97a30df095b071a1_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 25eb0fd64659991419df003136f655d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_7c0292e847014a5e8f9863d9ce3d2700: -6.69
+    - Vector1_96bc600dcbfb43dfa79e99c9d7c06fc4: 22.61
+    m_Colors:
+    - Color_0beac36a477f4caf950e1d81c68f423e: {r: 0.7490196, g: 0, b: 0.7176471, a: 0}
+  m_BuildTextureStacks: []
